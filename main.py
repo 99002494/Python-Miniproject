@@ -43,3 +43,12 @@ print("Number of satellites launched by PSLV are:", d1.number_of_satellites_by_v
 print("Total satellites launched between 2005 to 2015:",d1. number_of_satellites_bw_years_range(2005,2015))
 print("\n")
 
+print("Orbit Class Functions:")
+print("max Perigee:", d1.MaxPerigee())
+print("min Perigee:", d1.MinPerigee())
+print("Avg Perigee:", d1.AvgPerigee())
+print("max Apogee:", d1.MaxApogee())
+print("min Apogee:", d1.MinApogee())
+print("Avg Apogee:", d1.AvgApogee())
+print("Avg Ecentricity:", d1.AvgEcentricity())
+print("Avg Inclination:", d1.AvgInclination())

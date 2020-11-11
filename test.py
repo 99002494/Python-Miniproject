@@ -63,7 +63,29 @@ class TESTS(unittest.TestCase):
 
     def test_bw_years_range(self):
         self.assertEqual(122,self.d1. number_of_satellites_bw_years_range(2005,2015))
-  
+        def test_max_perigee(self):
+        self.assertEqual(23783,self.d1.MaxPerigee())
+
+    def test_min_perigee(self):
+        self.assertEqual(0,self.d1.MinPerigee())
+
+    def test_avg_perigee(self):
+        self.assertEqual(1314,self.d1.AvgPerigee())
+
+    def test_max_apogee(self):
+        self.assertEqual(330000,self.d1.MaxApogee())
+
+    def test_min_apogee(self):
+        self.assertEqual(0,self.d1.MinApogee())
+
+    def test_avg_apogee(self):
+        self.assertEqual(6089,self.d1.AvgApogee())
+
+    def test_avg_eccentricity(self):
+        self.assertEqual(2,self.d1.AvgEcentricity())
+    
+    def test_avg_inclination(self):
+        self.assertEqual(79,self.d1.AvgInclination())  
 
 if __name__ == '__main__':
     unittest.main()

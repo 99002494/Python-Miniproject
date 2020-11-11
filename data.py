@@ -111,3 +111,72 @@ class data():
                 count = count+1
         return count
     
+    #orbit class related functions
+
+    def MaxPerigee(self):
+        max_p = 0
+        for i in self.info:
+            m = int(i.perigee)
+            if(max_p < m):
+                max_p = m
+        return max_p
+
+    def MinPerigee(self):
+        min_p = 0
+        for i in self.info:
+            n = int(i.perigee)
+            if(min_p > n):
+                min_p = n
+        return min_p
+
+    def AvgPerigee(self):
+        sum_perigee = 0
+        avg_perigee = 0
+        cnt=len(self.info)
+        for i in self.info:
+            sum_perigee = sum_perigee + int(i.perigee)
+            avg_perigee = int((sum_perigee)/cnt)
+        return int(avg_perigee)
+
+    def MaxApogee(self):
+        max = 0.0
+        for i in self.info:
+            m = int(i.apogee)
+            if(max < m):
+                max = m
+        return max
+
+    def MinApogee(self):
+        min = 0
+        for i in self.info:
+            m = int(i.apogee)
+            if(min > m):
+                min = m
+        return min
+
+    def AvgApogee(self):
+        sum_apogee = 0
+        avg_apogee = 0
+        cnt=len(self.info)
+        for i in self.info:
+            sum_apogee = sum_apogee + int(i.apogee)
+            avg_apogee = sum_apogee/cnt
+        return int(avg_apogee)
+
+    def AvgEcentricity(self):
+        sum_e = 0
+        avg_e = 0
+        cnt=len(self.info)
+        for i in self.info:
+            sum_e = sum_e + float(i.eccentricity)
+            avg_e = sum_e/cnt
+        return round(avg_e)
+
+    def AvgInclination(self):   
+        sum_i = 0
+        avg_i = 0
+        cnt=len(self.info)
+        for j in self.info:
+            sum_i = sum_i + float(j.inclination)
+            avg_i = sum_i/cnt
+        return round(avg_i)

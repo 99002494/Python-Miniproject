@@ -12,6 +12,13 @@ class launch:
         self.LaunchYear = LaunchYear
         self.LaunchMass = LaunchMass
 
+3rd class orbit:
+    def __init__(self,perigee,apogee,eccentricity,inclination):
+        self.perigee = perigee
+        self.apogee = apogee
+        self.eccentricity = eccentricity
+        self.inclination = inclination
+
 class Satellite(details,launch,orbit):
     def __init__(self,OrbitClass,OrbitType,LifeTime,Purpose,LaunchVehicle, LaunchSite, LaunchYear, LaunchMass,perigee,apogee,eccentricity,inclination,Name,Operator,User):
         details.__init__(self,OrbitClass,OrbitType,LifeTime,Purpose)
