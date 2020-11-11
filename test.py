@@ -63,7 +63,8 @@ class TESTS(unittest.TestCase):
 
     def test_bw_years_range(self):
         self.assertEqual(122,self.d1. number_of_satellites_bw_years_range(2005,2015))
-        def test_max_perigee(self):
+        
+    def test_max_perigee(self):
         self.assertEqual(23783,self.d1.MaxPerigee())
 
     def test_min_perigee(self):

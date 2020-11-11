@@ -12,7 +12,7 @@ class launch:
         self.LaunchYear = LaunchYear
         self.LaunchMass = LaunchMass
 
-3rd class orbit:
+class orbit:
     def __init__(self,perigee,apogee,eccentricity,inclination):
         self.perigee = perigee
         self.apogee = apogee
