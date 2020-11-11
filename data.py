@@ -1,4 +1,4 @@
-# changed so and so details
+# changed so and so details user name and email
 from classes import * 
 
 class data():
