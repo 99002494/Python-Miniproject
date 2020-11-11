@@ -1,0 +1,285 @@
+1HOPSAT,Hera Systems,Commercial,Earth Observation,LEO,Non-Polar Inclined,566,576,7.20E-04,36.9,22,2019,0.5,Satish Dhawan Space Centre,PSLV
+AIM,"Center for Atmospheric Sciences, Hampton University/NASA",Government,Earth Observation,LEO,Sun-Synchronous,544,552,5.78E-04,97.9,215,2007,2,Vandenberg AFB,Pegasus XL
+AISSat-1,Norwegian Coastal Admnistration,Government,Communications,LEO,Sun-Synchronous,615,632,1.22E-03,98,6,2010,3,Satish Dhawan Space Centre,PSLV
+AISSat-2,Norwegian Coastal Admnistration,Government,Communications,LEO,Sun-Synchronous,625,631,4.29E-04,98.4,6,2014,3,Baikonur Cosmodrome,Soyuz-2.1b
+Alsat-2B,Algerian Space Agency (ASAL),Government,Earth Observation,LEO,Sun-Synchronous,646,660,9.97E-04,98.2,117,2016,5,Satish Dhawan Space Centre,PSLV
+Alsat-1B,Algerian Space Agency (ASAL),Government,Earth Observation,LEO,Sun-Synchronous,661,704,3.05E-03,98.2,103,2016,5,Satish Dhawan Space Centre,PSLV
+Alsat-2A,Algerian Space Agency (ASAL),Government,Earth Observation,LEO,Sun-Synchronous,672,674,1.42E-04,98.1,130,2010,5,Satish Dhawan Space Centre,PSLV
+Astrosat,Telemetry Tracking and Command Network (ISTRAC) Centre,Government,Space Science,LEO,Equatorial,632,649,1.21E-03,5.99,230,2015,5,Satish Dhawan Space Centre,PSLV C-30
+Cosmos 2503,Ministry of Defense,Military,Earth Observation,LEO,Sun-Synchronous,570,586,1.15E-03,97.7,4000,2015,5,Plesetsk Cosmodrome,Soyuz-2.1b
+Cosmos 2515,Ministry of Defense,Military,Earth Observation,LEO,Sun-Synchronous,549,594,3.24E-03,97.62,4000,2016,5,Plesetsk Cosmodrome,Soyuz 2.1a
+BDSAGR-1,"GasTianta and GZH-HNJ BDS AGR Co., Ltd.",Commercial,Earth Observation,LEO,Sun-Synchronous,613,634,1.50E-03,97.9,40,2019,3,Taiyuan Launch Center,Long March 4B
+BeijinGalaxy-1,Beijing Landview Mapping Information Technology Co. Ltd (BLMIT),Commercial,Earth Observation,LEO,Sun-Synchronous,681,703,1.56E-03,97.9,166,2005,7,Plesetsk Cosmodrome,Kosmos 3M
+BKA 2,National Academy of Sciences,Government,Earth Observation,LEO,Sun-Synchronous,503,507,2.91E-04,97.5,400,2012,5,Baikonur Cosmodrome,Soyuz-Fregat
+BlackSky Pathfinder 1,BlackSky Global,Commercial,Earth Observation,LEO,Sun-Synchronous,661,701,2.84E-03,98.2,44,2016,3,Satish Dhawan Space Centre,PSLV
+BRITE-PL-2,BRITE Consortium,Government,Space Science,LEO,Sun-Synchronous,610,633,1.64E-03,98.02,10,2014,2,Taiyuan Launch Center,Long March 2B
+Calipso,Centre National d'Etudes Spatiales (CNES)/NASA,Government,Earth Science,LEO,Sun-Synchronous,702,703,7.07E-05,98.2,587,2006,3,Vandenberg AFB,Delta 2
+CartoSat 1,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,618,619,7.15E-05,97.9,1560,2005,6,Satish Dhawan Space Centre,PSLV C6
+CartoSat 2,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,632,635,2.14E-04,97,680,2007,5,Satish Dhawan Space Centre,PSLV C7
+CartoSat 2A,Indian Space Research Organization (ISRO),Military,Earth Observation,LEO,Sun-Synchronous,624,643,1.36E-03,97.9,680,2008,5,Satish Dhawan Space Centre,PSLV C9
+CartoSat 2B,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,622,645,1.64E-03,97.9,694,2010,5,Satish Dhawan Space Centre,PSLV
+CartoSat 2C,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,501,519,1.31E-03,97.5,727,2016,5,Satish Dhawan Space Centre,PSLV XL
+CartoSat 2D,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,491,508,1.24E-03,97.5,714,2017,5,Satish Dhawan Space Centre,PSLV XL
+ ,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,334,347,9.69E-04,96.92,712,2017,5,Satish Dhawan Space Centre,PSLV
+CartoSat 2F,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,495,510,1.09E-03,97.5,712,2018,5,Satish Dhawan Space Centre,PSLV
+CartoSat 3,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,500,519,1.38E-03,97.5,1625,2019,5,Satish Dhawan Space Centre,PSLV
+Cassiope,Canadian Space Agency,Government,Earth Science,LEO,Elliptical,325,1486,7.98E-02,81,490,2013,2,Vandenberg AFB,Falcon 9
+CBERS 4,China National Space Administration (China)/National Institute for Space Research (Brazil),Government,Earth Observation,LEO,Sun-Synchronous,738,748,7.03E-04,98.55,1980,2014,3,Taiyuan Launch Center,Long March 4B
+Chandra X-Ray Observatory (CXO),National Aeronautics and Space Administration (NASA) Goddard Space Flight Center,Government,Space Science,Elliptical,Deep Highly Eccentric,9999,138825,7.97E-01,28.5,4742,1999,5,Cape Canaveral,Space Shuttle (STS 93)
+CHEOPS,European Space Agency (ESA),Government,Space Science,LEO,Sun-Synchronous,697,708,7.78E-04,98.2,273,2019,5,Guiana Space Center,Soyuz
+Coriolis,US Air Force/ US Navy/NASA,Military,Earth Observation,LEO,Sun-Synchronous,820,841,1.46E-03,98.8,817,2003,3,Vandenberg AFB,Titan 2
+COSMIC 2-1,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,709,721,8.47E-04,24,280,2019,5,Cape Canaveral,Falcon Heavy
+COSMIC 2-2,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,710,724,9.88E-04,24,280,2019,5,Cape Canaveral,Falcon Heavy
+COSMIC 2-3,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,708,724,1.13E-03,24,280,2019,5,Cape Canaveral,Falcon Heavy
+COSMIC 2-4,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,710,724,9.88E-04,24,280,2019,5,Cape Canaveral,Falcon Heavy
+COSMIC 2-5,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,709,724,1.06E-03,24,280,2019,5,Cape Canaveral,Falcon Heavy
+COSMIC 2-6,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Government,Earth Observation,LEO,Non-Polar Inclined,708,724,1.13E-03,24,280,2019,5,Cape Canaveral,Falcon Heavy
+Cryosat-2,European Space Agency (ESA),Government,Earth Observation,LEO,Polar,713,724,7.76E-04,92,720,2010,3,Baikonur Cosmodrome,Dnepr
+CSO-1,Directorate General of Armaments (DGA),Military,Earth Observation,LEO,Sun-Synchronous,800,800,0.00E+00,98.6,3565,2018,10,Guiana Space Center,Soyuz
+Deimos 1,Deimos Imaging/DMC International Imaging (DMCII),Government,Earth Observation,LEO,Sun-Synchronous,661,662,7.11E-05,98,90,2009,5,Baikonur Cosmodrome,Dnepr
+Dellingr,NASA Goddard Space Flight Center,Government,Technology Development,LEO,Non-Polar Inclined,401,404,2.21E-04,51.6,12,2017,1,International Space Station,Nanorack Deployer
+DLR Tubsat,Deutsches Zentrum für Luft- und Raumfahrt,Government,Earth Science,LEO,Sun-Synchronous,712,732,1.41E-03,98.6,45,1999,1,Satish Dhawan Space Centre,PSLV C2
+DMC 3-1,Surrey Satellite Technology Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,636,663,1.92E-03,98,447,2015,10,Satish Dhawan Space Centre,PSLV
+DMC 3-2,Surrey Satellite Technology Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,636,663,1.92E-03,98,447,2015,10,Satish Dhawan Space Centre,PSLV
+DMC 3-3,Surrey Satellite Technology Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,636,661,1.78E-03,98,447,2015,10,Satish Dhawan Space Centre,PSLV
+USA 131,DoD/NOAA,Military,Earth Observation,LEO,Sun-Synchronous,842,855,9.00E-04,98.9,1134,1997,5,Vandenberg AFB,Titan 2
+USA 147,DoD/NOAA,Military,Earth Observation,LEO,Sun-Synchronous,837,851,9.70E-04,98.9,1152,1999,5,Vandenberg AFB,Titan 2
+USA 172,DoD/NOAA,Military,Earth Observation,LEO,Sun-Synchronous,843,852,6.23E-04,98.9,1154,2003,5,Vandenberg AFB,Titan 2
+USA 173,DoD/NOAA,Military,Earth Observation,LEO,Sun-Synchronous,842,855,9.00E-04,98.79,1154,2006,5,Vandenberg AFB,Delta 4
+USA 210,DoD/NOAA,Military,Earth Observation,LEO,Sun-Synchronous,842,859,1.18E-03,98.93,1155,2009,5,Vandenberg AFB,Atlas 5
+EcAMSat,Santa Clara University,Government,Space Science,LEO,Non-Polar Inclined,397,408,8.12E-04,51.6,10,2017,1,International Space Station,Nanorack Deployer
+EgyptSat-A,National Authority for Remote Sensing and Space Science (NARSS),Government,Earth Observation,LEO,Sun-Synchronous,652,657,3.56E-04,98,2200,2019,11,Baikonur Cosmodrome,Soyuz
+Terra,Earth Sciences Enterprise (NASA),Government,Earth Observation,LEO,Sun-Synchronous,702,703,7.07E-05,98.2,4854,1999,6,Vandenberg AFB,Atlas 2AS
+Aura,Goddard Space Flight Center/EOS Data and Operations System,Government,Earth Observation,LEO,Sun-Synchronous,702,703,7.07E-05,98.2,2967,2004,5,Vandenberg AFB,Delta 2
+Aqua,National Aeronautics and Space Administration (NASA) - Earth Science Enterprise/Japan Meteorological Agency/Brazilian Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,701,704,2.12E-04,98.2,2934,2002,6,Vandenberg AFB,Delta
+ExSeedSat-1,Exseed Space,Commercial,Communications,LEO,Sun-Synchronous,572,588,1.15E-03,97.7,4,2018,2,Vandenberg AFB,Falcon 9
+Fengyun 3D,China Meteorological Administration,Government,Earth Observation,LEO,Sun-Synchronous,803,812,6.27E-04,98.6,2300,2017,8,Taiyuan Launch Center,Long March 4C
+FormoSat-5,National Space Organization,Government,Earth Observation,LEO,Sun-Synchronous,710,729,1.34E-03,98.3,525,2017,5,Vandenberg AFB,Falcon 9
+Fast On-orbit Recording of Transient Events) FORTÉ ,Los Alamos National Laboratory,Government,Earth Observation,LEO,Polar,790,823,2.30E-03,70,215,1997,3,Vandenberg AFB,Pegasus XL
+Gaofen 10,China National Academy of Sciences (CNSAS),Government,Earth Observation,LEO,Sun-Synchronous,611,621,7.16E-04,97.8,1000,2019,8,Taiyuan Launch Center,Long March 4C
+Gaofen 12,China National Academy of Sciences (CNSAS),Government,Earth Observation,LEO,Sun-Synchronous,612,616,6.21E+02,97.9,1000,2019,8,Taiyuan Launch Center,Long March 4C
+Gaofen 2,China National Academy of Sciences (CNSAS),Government,Earth Observation,LEO,Sun-Synchronous,620,636,1.14E-03,98.02,1000,2014,8,Taiyuan Launch Center,Long March 4B
+Gaofen 3,State Oceanic Administration (SOA),Government,Earth Observation,LEO,Polar,757,759,1.40E-04,98.4,1000,2016,8,Taiyuan Launch Center,Long March 4C
+Gaofen 8,People's Liberation Army (C41),Military,Earth Observation,LEO,Sun-Synchronous,484,492,5.83E-04,97.3,1000,2015,8,Taiyuan Launch Center,Long March 4B
+Gaofen-1-02,"China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,Earth Observation,LEO,Sun-Synchronous,638,642,2.85E-04,98,805,2018,8,Taiyuan Launch Center,Long March 4C
+Gaofen-1-03,"China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,Earth Observation,LEO,Sun-Synchronous,638,640,1.43E-04,98,805,2018,8,Taiyuan Launch Center,Long March 4C
+Gaofen-1-04,"China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,Earth Observation,LEO,Sun-Synchronous,638,642,2.85E-04,98,805,2018,8,Taiyuan Launch Center,Long March 4C
+Gaofen-1-05,"China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture",Government,Earth Observation,LEO,Sun-Synchronous,677,695,1.28E-03,98,805,2018,8,Taiyuan Launch Center,Long March 4C
+Cosmos 2517,Ministry of Defense,Military,Earth Science,LEO,Sun-Synchronous,935,963,1.91E-03,99.27,900,2016,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2540,Ministry of Defense,Military,Earth Science,LEO,Sun-Synchronous,945,958,8.88E-04,99.3,900,2019,5,Plesetsk Cosmodrome,Rokot
+Globalstar FM37,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1411,1417,3.85E-04,52,450,1999,10,Baikonur Cosmodrome,Soyuz U
+Globalstar M065,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1411,1416,3.21E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M066,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M067,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M069,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1411,1416,3.21E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M070,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M071,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M072,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1416,2.57E-04,52,450,2007,10,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M073,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M074,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1415,1.28E-04,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M075,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1415,1.28E-04,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M076,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M077,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M078,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,51.99,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Globalstar M079,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2010,15,Baikonur Cosmodrome,Soyuz-Fregat
+Globalstar M080,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M081,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M082,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M083,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M084,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M085,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1415,1.28E-04,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M086,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M088,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M089,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1415,1.28E-04,51.99,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M090,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M091,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1415,1.28E-04,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a
+Globalstar M092,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52,700,2011,15,Baikonur Cosmodrome,Soyuz 2.1a/Fregat
+Globalstar M093,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1412,1415,1.93E-04,51.98,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Globalstar M094,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,51.99,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Globalstar M095,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,51.98,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Globalstar M096,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1413,1414,6.42E-05,52.01,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Globalstar M097,Globalstar,Commercial,Communications,LEO,Non-Polar Inclined,1370,1391,1.35E-03,52.01,700,2013,15,Baikonur Cosmodrome,Soyuz.2.1a/Fregat
+Göktürk 1,Turkish Ministry of National Defense,Military,Earth Observation,LEO,Sun-Synchronous,683,683,0.00E+00,98.1,1060,2016,7,Guiana Space Center,Vega
+GPIM,National Aeronautics and Space Administration (NASA),Government,Technology Development,LEO,Sun-Synchronous,701,729,1.98E-03,24,180,2019,1,Cape Canaveral,Falcon Heavy
+Grace Follow-on-1,NASA/German Research Centre for Geosciences (GFZ),Government,Earth Observation,LEO,Polar,485,504,1.38E-03,88.9,600,2018,5,Vandenberg AFB,Falcon 9
+Grace Follow-on-2,NASA/German Research Centre for Geosciences (GFZ),Government,Earth Observation,LEO,Polar,484,504,1.46E-03,88.9,600,2018,5,Vandenberg AFB,Falcon 9
+Haiyang 2A,State Oceanic Administration (SOA),Government,Earth Observation,LEO,Sun-Synchronous,965,967,1.36E-04,99.4,1500,2011,3,Taiyuan Launch Center,Long March 4B
+Haiyang 2B,State Oceanic Administration (SOA),Government,Earth Observation,LEO,Sun-Synchronous,949,957,5.46E-04,99.3,1500,2018,3,Taiyuan Launch Center,Long March 4B
+HEAD-1,HEAD Aerospace,Commercial,Earth Observation,LEO,Sun-Synchronous,796,809,9.06E-04,98.6,45,2017,3,Taiyuan Launch Center,Long March 4C
+Helios 2A,Centre National d'Etudes Spatiales (CNES)/Délégation Générale de l'Armement (DGA),Military,Earth Observation,LEO,Sun-Synchronous,681,683,1.42E-04,98.1,4200,2004,5,Guiana Space Center,Ariane 5G
+Helios 2B,Centre National d'Etudes Spatiales (CNES)/Délégation Générale de l'Armement (DGA),Military,Earth Observation,LEO,Sun-Synchronous,679,682,2.13E-04,98.1,4200,2009,5,Guiana Space Center,Ariane 5
+HJ-1A,National Remote Sensing Center (NRSCC),Government,Earth Observation,LEO,Sun-Synchronous,628,665,2.64E-03,97.8,470,2008,3,Taiyuan Launch Center,Long March 2C
+HJ-1B,National Remote Sensing Center (NRSCC),Government,Earth Observation,LEO,Sun-Synchronous,621,673,3.71E-03,97.8,470,2008,3,Taiyuan Launch Center,Long March 2C
+HJ-1C,National Committee for Disaster Reduction and State Environmental Protection,Government,Earth Observation,LEO,Sun-Synchronous,420,438,1.32E-03,97.33,890,2012,3,Taiyuan Launch Center,Long March 2C
+Hubble Space Telescope,European Space Agency (ESA)/NASA,Government,Space Science,LEO,Non-Polar Inclined,555,559,2.89E-04,28.5,11110,1990,10,Cape Canaveral,Space Shuttle (STS 31)
+HySIS,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,647,648,7.13E-05,98,380,2018,5,Satish Dhawan Space Centre,PSLV
+Icesat-2,National Aeronautics and Space Administration (NASA),Government,Earth Science,LEO,Polar,455,468,9.51E-04,93.02,1515,2018,3,Vandenberg AFB,Delta 2
+INS-1C,Indian Space Research Organization (ISRO),Government,Technology Development,LEO,Sun-Synchronous,495,508,9.46E-04,97.5,5,2018,0.5,Satish Dhawan Space Centre,PSLV
+INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL),European Space Operations Centre (ESOC)/NASA/Russia,Government,Space Science,Elliptical,Deep Highly Eccentric,6292,156833,8.56E-01,53.95,4000,2002,2,Baikonur Cosmodrome,Proton
+IRIS,National Aeronautics and Space Administration (NASA),Government,Space Science,LEO,Sun-Synchronous,620,664,3.14E-03,97.9,236,2013,2,Vandenberg AFB,L1011
+IRS-P6,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,817,823,4.17E-04,98.8,1360,2003,5,Satish Dhawan Space Centre,PSLV C5
+ITU-pSAT1,ITU Space Systems Design & Test Laboratory,Civil,Technology Development,LEO,Sun-Synchronous,710,721,7.76E-04,98.4,1,2009,1,Satish Dhawan Space Centre,PSLV
+Jason 3,National Aeronautics and Space Administration (NASA)/Centre National d'Etudes Spatiales (CNES)/NOAA/EUMETSAT,Government,Earth Observation,LEO,Non-Polar Inclined,1301,1324,1.50E-03,66,553,2016,5,Vandenberg AFB,Falcon 9
+Jilin-1-4,Chang Guang Satellite Technology Co. Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,532,545,9.41E-04,97.5,95,2017,3,Taiyuan Launch Center,Long March 6
+Jilin-1-5,Chang Guang Satellite Technology Co. Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,531,544,9.41E-04,97.5,95,2017,3,Taiyuan Launch Center,Long March 6
+Jilin-1-6,Chang Guang Satellite Technology Co. Ltd.,Commercial,Earth Observation,LEO,Sun-Synchronous,531,544,9.41E-04,97.5,95,2017,3,Taiyuan Launch Center,Long March 6
+Canopus-B,Scientific Production Corporation (joint stock creation of Russian Space Agency),Government,Earth Observation,LEO,Sun-Synchronous,501,505,2.91E-04,97.5,400,2012,5,Baikonur Cosmodrome,Soyuz-Fregat
+KazEOSat-1,Kazcosmos,Government,Earth Observation,LEO,Sun-Synchronous,751,754,2.11E-04,98.53,830,2014,7.25,Guiana Space Center,Vega
+KazSTSAT,Ghalam LLP,Commercial,Earth Observation,LEO,Sun-Synchronous,573,589,1.15E-03,97.7,100,2018,5,Vandenberg AFB,Falcon 9
+USA 186,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Elliptical,264,1050,5.59E-02,97.9,18000,2005,5,Vandenberg AFB,Titan IV
+USA 224,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Elliptical,200,1000,5.74E-02,97.8,18000,2011,5,Vandenberg AFB,Delta 4 Heavy
+USA 245,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Elliptical,257,997,5.29E-02,97.8,18000,2013,5,Vandenberg AFB,Delta 4 Heavy
+USA 290,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Polar,395,419,1.77E-03,74,18000,2019,5,Vandenberg AFB,Delta 4 Heavy
+USA 133,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Non-Polar Inclined,671,675,2.84E-04,57,14500,1997,5,Vandenberg AFB,Titan IV
+USA 152,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Non-Polar Inclined,574,676,7.29E-03,68,14500,2000,9,Vandenberg AFB,Titan IV
+USA 182,National Reconnaissance Office (NRO),Military,Earth Observation,LEO,Non-Polar Inclined,713,716,2.12E-04,57.01,14500,2005,9,Cape Canaveral,Titan 4B
+Landmapper BC3.v2,Astro Digital,Commercial,Earth Observation,LEO,Sun-Synchronous,496,502,4.37E-04,97.5,11,2018,5,Satish Dhawan Space Centre,PSLV
+Landsat 7,National Aeronautics and Space Administration (NASA)/US Geological Survey,Government,Earth Observation,LEO,Sun-Synchronous,702,703,7.07E-05,98.2,2744,1999,15,Vandenberg AFB,Delta 2
+Landsat 8,National Aeronautics and Space Administration (NASA)/US Geological Survey,Government,Earth Observation,LEO,Sun-Synchronous,700,705,3.53E-04,98.2,2780,2013,5,Vandenberg AFB,Atlas 5
+Maroc Tubsat,CTRS Morocco/Institut für Luft-und Raumfahrttechnik (Berlin),Government,Technology Development,LEO,Sun-Synchronous,984,1014,2.04E-03,99.2,47,2001,3,Baikonur Cosmodrome,Zenit
+Megha-Tropiques,Indian Space Research Organization (ISRO)/Centre National d'Etudes Spatiales (CNES),Government,Earth Observation,LEO,Non-Polar Inclined,853,868,1.04E-03,20,1000,2011,5,Satish Dhawan Space Centre,PSLV
+Meridian-6,Military Space Forces (VKS),Military,Communications,Elliptical,Molniya,1494,38860,7.04E-01,63.77,2500,2012,7,Plesetsk Cosmodrome,Soyuz 2.1a
+Meridian-7,Military Space Forces (VKS),Military,Communications,Elliptical,Molniya,962,39398,7.24E-01,62.82,2500,2014,7,Plesetsk Cosmodrome,Soyuz 2.1a
+Meridian-8,Military Space Forces (VKS),Military,Communications,Elliptical,Molniya,986,39735,7.25E-01,62.8,2500,2019,7,Plesetsk Cosmodrome,Soyuz 2.1a
+Meridian-9,Military Space Forces (VKS),Military,Communications,Elliptical,Molniya,1036,39308,7.21E-01,62.84,2500,2020,7,Plesetsk Cosmodrome,Soyuz 2.1a
+Meteor-M N-2,Russian Federal Service For Hydrometeorology and Environmental Monitoring (ROSHYDROMET),Government,Earth Observation,LEO,Sun-Synchronous,819,828,6.26E-04,98.81,2778,2014,5,Baikonur Cosmodrome,Soyuz 2.1b
+Microvariability & Oscillations of Stars (MOST),Canadian Space Agency,Government,Space Science,LEO,Sun-Synchronous,817,832,1.04E-03,98.7,53,2003,1,Plesetsk Cosmodrome,Rokot
+NARSSCUBE-1,National Authority for Remote Sensing and Space Sciences,Government,Technology Development,LEO,Non-Polar Inclined,400,407,5.17E-04,51.6,1,2019,1,International Space Station,J-SSOD Deployer
+NARSSCUBE-2,National Authority for Remote Sensing and Space Sciences,Government,Technology Development,LEO,Non-Polar Inclined,468,483,1.10E-03,51.6,1,2019,1,Cape Canaveral,Falcon 9
+NIUSat,Noorul Islam University,Civil,Technology Development,LEO,Sun-Synchronous,496,517,1.53E-03,97.4,15,2017,2,Satish Dhawan Space Centre,PSLV
+NOAA-15,National Oceanographic and Atmospheric Administration (NOAA) (part of international program),Government,Earth Observation,LEO,Sun-Synchronous,800,816,1.11E-03,98.7,2223,1998,3,Vandenberg AFB,Titan 2
+NOAA-18,National Oceanographic and Atmospheric Administration (NOAA) (part of international program),Government,Earth Observation,LEO,Sun-Synchronous,843,864,1.45E-03,99.1,2223,2005,3,Vandenberg AFB,Delta 2
+NOAA-19,National Oceanographic and Atmospheric Administration (NOAA) (part of international program),Government,Earth Observation,LEO,Sun-Synchronous,845,864,1.31E-03,98.9,1420,2009,3,Vandenberg AFB,Delta 2
+NOAA-20,National Oceanographic and Atmospheric Administration (NOAA) (part of international program),Government,Earth Observation,LEO,Sun-Synchronous,817,819,1.39E-04,98.7,2294,2017,7,Vandenberg AFB,Delta 2
+OCO 2,National Aeronautics and Space Administration (NASA),Government,Earth Observation,LEO,Sun-Synchronous,701,704,2.12E-04,98.2,454,2014,2,Vandenberg AFB,Delta 2
+ORBCOMM FM-4,ORBCOMM Inc.,Commercial,Communications,LEO,Polar,768,838,4.88E-03,108,45,1998,5,Vandenberg AFB,Taurus
+ORBCOMM FM-103,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,620,741,8.58E-03,47,172,2014,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-107,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,620,739,8.44E-03,47,172,2014,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-108,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,657,3.07E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-109,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,620,739,8.44E-03,47,172,2014,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-110,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,615,658,3.07E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-112,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,657,3.07E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-113,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,656,3.00E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-114,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,658,3.14E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-115,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,613,655,3.00E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-116,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,654,2.86E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-117,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,614,656,3.00E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+ORBCOMM FM-118,ORBCOMM Inc.,Commercial,Communications,LEO,Non-Polar Inclined,615,658,3.07E-03,47,172,2015,5,Cape Canaveral,Falcon 9
+OTB-1,General Atomics - Electromagnetic Systems Group,Commercial,Technology Development,LEO,Sun-Synchronous,706,723,1.20E-03,24,138,2019,25,Cape Canaveral,Falcon Heavy
+Cosmos 2407,Ministry of Defense,Military,Communications,LEO,Polar,949,1008,4.01E-03,83,825,2004,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2414,Ministry of Defense,Military,Communications,LEO,Polar,907,968,4.17E-03,83,825,2005,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2463,Ministry of Defense,Military,Communications,LEO,Polar,968,1022,3.67E-03,83,820,2010,3,Plesetsk Cosmodrome,Kosmos 3M
+PEASSS,Netherlands Organization for Applied Scientific Research (NTO) consortium,Government,Technology Development,LEO,Sun-Synchronous,494,504,7.28E-04,97.5,10,2017,1,Satish Dhawan Space Centre,PSLV XL
+Cosmos 2486,Ministry of Defense,Military,Earth Observation,LEO,Sun-Synchronous,714,733,1.34E-03,98.3,7000,2013,5,Plesetsk Cosmodrome,Soyuz 2.1b
+Cosmos 2506,Ministry of Defense,Military,Earth Observation,LEO,Sun-Synchronous,706,725,1.34E-03,98.5,7000,2015,5,Plesetsk Cosmodrome,Soyuz 2.1b
+PeruSat-1,Peruvian SpaceAgency,Government,Earth Observation,LEO,Sun-Synchronous,704,705,7.07E-05,98.2,430,2016,10,Guiana Space Center,Vega
+Pléiades HR1A ,"Ministry of Defense/Centre National d'Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden",Government,Earth Observation,LEO,Sun-Synchronous,697,699,1.41E-04,98.2,1000,2011,5,Guiana Space Center,Soyuz 2/Fregat
+Pléiades HR1B ,"Ministry of Defense/Centre National d'Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden",Government,Earth Observation,LEO,Sun-Synchronous,678,691,9.21E-04,98.5,970,2012,5,Guiana Space Center,Soyuz STA/Fregat
+PRISMA,Italian Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,623,625,1.43E-04,97.9,550,2019,5,Guiana Space Center,Vega
+Proba 5,European Space Agency (ESA),Government,Earth Observation,LEO,Sun-Synchronous,813,820,4.87E-04,98.73,140,2013,2.5,Guiana Space Center,Vega
+Prometheus 2.1,Los Alamos National Laboratory,Military,Technology Development,LEO,Sun-Synchronous,574,586,8.63E-04,97.99,1,2016,4,Vandenberg AFB,Atlas 5
+Prometheus 2.3,Los Alamos National Laboratory,Military,Technology Development,LEO,Equatorial,388,601,1.55E-02,24.5,1,2017,2,Cape Canaveral,Minotaur 4
+Prometheus 2.6,Los Alamos National Laboratory,Military,Technology Development,LEO,Elliptical,300,847,3.94E-02,28.5,1,2019,2,Cape Canaveral,Falcon Heavy
+Prox-1,Georgia Institute of Technology,Civil,Technology Development,LEO,Sun-Synchronous,705,725,1.41E-03,24,70,2019,0.25,Cape Canaveral,Falcon Heavy
+PWSat-2,Warsaw University of Technology,Civil,Technology Development,LEO,Sun-Synchronous,572,591,1.37E-03,97.7,3,2018,0.5,Vandenberg AFB,Falcon 9
+Raavana-1,Kyushu Institute of Technology (KIT),Civil,Earth Observation,LEO,Non-Polar Inclined,405,415,7.37E-04,51.6,1,2019,1.5,International Space Station,J-SSOD Deployer
+Radarsat-2,MDA Corporation,Commercial,Earth Observation,LEO,Sun-Synchronous,791,793,1.40E-04,98.6,2924,2007,7,Baikonur Cosmodrome,Soyuz
+RAVAN,Applied Physics Laboratory/NASA,Government,Technology Development,LEO,Sun-Synchronous,570,583,9.36E-04,97.96,5,2016,0.5,Vandenberg AFB,Atlas 5
+RCM-1,Canadian Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,584,604,1.44E-03,97.7,1430,2019,7,Vandenberg AFB,Falcon 9
+RCM-2,Canadian Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,584,603,1.36E-03,97.7,1430,2019,7,Vandenberg AFB,Falcon 9
+RCM-3,Canadian Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,584,603,1.36E-03,97.7,1430,2019,7,Vandenberg AFB,Falcon 9
+Resourcesat 2,Indian Space Research Organization (ISRO)/exactEarth,Government,Earth Observation,LEO,Sun-Synchronous,817,823,4.17E-04,98.7,1206,2011,5,Satish Dhawan Space Centre,PSLV C16
+Resourcesat-2A,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,814,831,1.18E-03,98.7,1235,2016,5,Satish Dhawan Space Centre,PSLV
+RISat-2BR1,Ministry of Defense,Military,Earth Observation,LEO,Non-Polar Inclined,563,573,7.21E-04,36.9,628,2019,5,Satish Dhawan Space Centre,PSLV
+Cosmos 2437,Ministry of Defense,Military,Communications,LEO,Polar,1480,1511,1.97E-03,82.5,280,2008,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2438,Ministry of Defense,Military,Communications,LEO,Polar,1477,1509,2.03E-03,82.5,280,2008,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2439,Ministry of Defense,Military,Communications,LEO,Polar,1478,1510,2.03E-03,82.5,280,2008,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2451,Ministry of Defense,Military,Communications,LEO,Polar,1498,1509,6.99E-04,82.5,280,2009,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2453,Ministry of Defense,Military,Communications,LEO,Polar,1495,1506,6.99E-04,82.5,280,2009,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2467,Ministry of Defense,Military,Communications,LEO,Polar,1493,1496,1.91E-04,82.5,225,2010,3,Plesetsk Cosmodrome,Rokot
+Cosmos 2468,Ministry of Defense,Military,Communications,LEO,Polar,1484,1505,1.34E-03,82.5,225,2010,3,Plesetsk Cosmodrome,Rokot
+Cosmos 2481,Ministry of Defense,Military,Communications,LEO,Polar,1481,1512,1.97E-03,82.5,280,2012,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2482,Ministry of Defense,Military,Communications,LEO,Polar,1473,1516,2.73E-03,82.5,250,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2483,Ministry of Defense,Military,Communications,LEO,Polar,1473,1516,2.73E-03,82.5,250,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2484,Ministry of Defense,Military,Communications,LEO,Polar,1475,1514,2.48E-03,82.5,250,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2488,Ministry of Defense,Military,Communications,LEO,Polar,1478,1509,1.97E-03,82.5,280,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2489,Ministry of Defense,Military,Communications,LEO,Polar,1477,1507,1.91E-03,82.5,280,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2490,Ministry of Defense,Military,Communications,LEO,Polar,1482,1511,1.84E-03,82.5,280,2013,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2496,Ministry of Defense,Military,Communications,LEO,Polar,1480,1511,1.97E-03,82.44,280,2014,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2497,Ministry of Defense,Military,Communications,LEO,Polar,1478,1510,2.03E-03,82.45,280,2014,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2498,Ministry of Defense,Military,Communications,LEO,Polar,1477,1509,2.03E-03,82.44,280,2014,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2507,Ministry of Defense,Military,Communications,LEO,Polar,1497,1506,5.72E-04,82.5,280,2015,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2508,Ministry of Defense,Military,Communications,LEO,Polar,1496,1504,5.08E-04,82.49,280,2015,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2509,Ministry of Defense,Military,Communications,LEO,Polar,1498,1508,6.35E-04,82.49,280,2015,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2530,Ministry of Defense,Military,Communications,LEO,Polar,1485,1508,1.46E-03,82.5,280,2018,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2531,Ministry of Defense,Military,Communications,LEO,Polar,1485,1508,1.46E-03,82.5,280,2018,5,Plesetsk Cosmodrome,Rokot
+Cosmos 2532,Ministry of Defense,Military,Communications,LEO,Polar,1485,1508,1.46E-03,82.5,280,2018,5,Plesetsk Cosmodrome,Rokot
+Rumba,European Space Agency (ESA) (and 250 international scientific investigators),Government,Space Science,Elliptical,Deep Highly Eccentric,17240,120715,6.87E-01,90.8,1200,2000,4,Baikonur Cosmodrome,Soyuz
+Salsa,European Space Agency (ESA) (and 250 international scientific investigators),Government,Space Science,Elliptical,Deep Highly Eccentric,21998,110256,6.09E-01,90.7,1200,2000,4,Baikonur Cosmodrome,Soyuz
+Samba,European Space Agency (ESA) (and 250 international scientific investigators),Government,Space Science,Elliptical,Deep Highly Eccentric,22017,110791,6.10E-01,132.98,1200,2000,4,Baikonur Cosmodrome,Soyuz
+SAOCOM-1A,National Space Activities Commission (CONAE),Government,Earth Observation,LEO,Sun-Synchronous,626,633,5.00E-04,98,1650,2018,5,Vandenberg AFB,Falcon 9
+Sapphire,Department of National Defense,Military,Space Observation,LEO,Non-Polar Inclined,772,787,1.05E-03,132.98,148,2013,5,Satish Dhawan Space Centre,PSLV
+SARAL,Indian Space Research Organization (ISRO)/Centre National d'Etudes Spatiales (CNES),Government,Earth Observation,LEO,Sun-Synchronous,782,785,2.10E-04,98.5,407,2013,5,Satish Dhawan Space Centre,PSLV
+SAR-Lupe 1,Armed Forces,Military,Earth Observation,LEO,Non-Polar Inclined,468,505,2.70E-03,98.2,770,2006,10,Plesetsk Cosmodrome,Kosmos 3M
+SAR-Lupe 2,Armed Forces,Military,Earth Observation,LEO,Non-Polar Inclined,470,503,2.41E-03,98.19,770,2007,10,Plesetsk Cosmodrome,Kosmos 3M
+SAR-Lupe 3,Armed Forces,Military,Earth Observation,LEO,Non-Polar Inclined,473,496,1.68E-03,98.17,770,2007,10,Plesetsk Cosmodrome,Kosmos 3M
+SAR-Lupe 4,Armed Forces,Military,Earth Observation,LEO,Non-Polar Inclined,448,486,2.78E-03,98.16,770,2008,10,Plesetsk Cosmodrome,Kosmos 3M
+SAR-Lupe 5,Armed Forces,Military,Earth Observation,LEO,Non-Polar Inclined,474,502,2.04E-03,98.16,770,2008,10,Plesetsk Cosmodrome,Kosmos 3M
+ScatSat-1,Indian Space Research Organization (ISRO),Government,Earth Observation,LEO,Sun-Synchronous,717,731,9.87E-04,98.1,371,2016,5,Satish Dhawan Space Centre,PSLV
+SCD-1,Instituto Nacional de Pesquisas Espaciais (INPE),Government,Earth Observation,LEO,Non-Polar Inclined,716,776,4.22E-03,25,110,1993,3,Cape Canaveral,Pegasus
+SCD-2,Instituto Nacional de Pesquisas Espaciais (INPE),Government,Earth Observation,LEO,Non-Polar Inclined,735,760,1.76E-03,25,110,1998,3,Cape Canaveral,Pegasus
+Sentinel 3B,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,802,815,9.05E-04,98.6,2300,2018,7,Plesetsk Cosmodrome,Rokot
+Sentinel 1A,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,691,693,1.42E-04,98.16,2300,2014,7,Guiana Space Center,Soyuz
+Sentinel 1B,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,695,697,1.42E-04,98.1,2300,2016,7,Guiana Space Center,Soyuz 2.1a
+Sentinel 2A,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,787,788,6.99E-05,98.5,1130,2015,7,Guiana Space Center,Vega
+Sentinel 2B,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,777,779,1.40E-04,98.5,1130,2017,7,Guiana Space Center,Vega
+Sentinel 3A,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,802,804,1.39E-04,98.6,2300,2016,7,Plesetsk Cosmodrome,Rokot
+Sentinel 5P,EUMETSAT (European Organization for the Exploitation of Meteorological Satellites),Government,Earth Observation,LEO,Sun-Synchronous,816,819,2.09E-04,98.7,820,2017,7,Plesetsk Cosmodrome,Rokot
+Sinah-1,Iranian Research Organization for Science and Technology (IROST),Government,Communications,LEO,Sun-Synchronous,681,703,1.56E-03,97.9,170,2005,3,Plesetsk Cosmodrome,Kosmos 3M
+Sirius-1 (SD Radio 1),Sirius XM Holdings,Commercial,Communications,Elliptical,Molniya,23783,47100,2.79E-01,63.3,3727,2000,15,Baikonur Cosmodrome,Proton K
+Sirius 2 (SD Radio 2),Sirius XM Holdings,Commercial,Communications,Elliptical,Molniya,12849,47048,4.71E-01,63.3,3792,2000,15,Baikonur Cosmodrome,Proton K
+Sirius 3 (SD Radio 3),Sirius XM Holdings,Commercial,Communications,Elliptical,Molniya,6179,47086,6.20E-01,63.4,3727,2000,15,Baikonur Cosmodrome,Proton K
+SMOS,Centre National d'Etudes Spatiales (CNES)/European Space Agency (ESA),Government,Earth Observation,LEO,Sun-Synchronous,759,760,7.01E-05,98.4,658,2009,3,Plesetsk Cosmodrome,Breeze KM
+Spektr-R/RadioAstron,Astro Space Center of Moscow/Russian Academy of Sciences,Government,Space Science,Elliptical,Cislunar,1000,330000,9.57E-01,51.46,3660,2011,5,Baikonur Cosmodrome,Zenit 3SLBF/Fregat SB
+Spot 6,Spot Image,Commercial,Earth Observation,LEO,Sun-Synchronous,696,699,2.12E-04,98.2,720,2012,10,Satish Dhawan Space Centre,PSLV
+Spot 7,Spot Image,Commercial,Earth Observation,LEO,Sun-Synchronous,643,660,1.21E-03,98.2,714,2014,10,Satish Dhawan Space Centre,PSLV-CA
+SRMSat,SRM University,Civil,Technology Development,LEO,Non-Polar Inclined,850,868,1.24E-03,20,11,2011,1,Satish Dhawan Space Centre,PSLV
+StarLink Demo 1,SpaceX,Commercial,Communications,LEO,Sun-Synchronous,500,516,1.16E-03,97.4,20,2018,2,Vandenberg AFB,Falcon 9
+STPSat-4,USAF Space Test Program,Military,Technology Development,LEO,Non-Polar Inclined,415,422,5.16E-04,51.6,10,2020,1,International Space Station,Manual Deployment
+Cosmos 2385,Ministry of Defense,Military,Communications,LEO,Polar,1417,1425,5.13E-04,82.5,225,2001,3,Plesetsk Cosmodrome,Tsyklon 3
+Cosmos 2386,Ministry of Defense,Military,Communications,LEO,Polar,1415,1419,2.57E-04,82.5,225,2001,3,Plesetsk Cosmodrome,Tsyklon 3
+Cosmos 2390,Ministry of Defense,Military,Communications,LEO,Equatorial,1468,1506,2.42E-03,8.5,225,2002,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2391,Ministry of Defense,Military,Communications,LEO,Polar,1466,1506,2.55E-03,82.5,225,2002,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2400,Ministry of Defense,Military,Communications,LEO,Polar,1467,1503,2.29E-03,82.5,225,2003,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2401,Ministry of Defense,Military,Communications,LEO,Polar,1465,1502,2.36E-03,82.5,225,2003,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2408,Ministry of Defense,Military,Communications,LEO,Polar,1471,1495,1.53E-03,82.5,225,2004,3,Plesetsk Cosmodrome,Kosmos 3M
+Cosmos 2409,Ministry of Defense,Military,Communications,LEO,Polar,1474,1495,1.34E-03,82.5,225,2004,3,Plesetsk Cosmodrome,Kosmos 3M
+STSat-2C,Korea Aerospace Research Institute (KARI),Government,Technology Development,LEO,Polar,298,1482,8.15E-02,80.28,93,2013,2,Naro Space Center,Naro-1
+USA 208,Missile Defense Agency (MDA),Military,Technology Development,LEO,Non-Polar Inclined,1347,1352,3.24E-04,58,2240,2009,4,Cape Canaveral,Delta 2
+USA 209,Missile Defense Agency (MDA),Military,Technology Development,LEO,Non-Polar Inclined,1339,1351,7.78E-04,58,2240,2009,4,Cape Canaveral,Delta 2
+Superview 1-01,Beijing Space View Technology,Commercial,Earth Observation,LEO,Sun-Synchronous,352,525,1.27E-02,97.6,560,2016,8,Taiyuan Launch Center,Long March 2D
+Superview 1-02,Beijing Space View Technology,Commercial,Earth Observation,LEO,Sun-Synchronous,343,548,1.50E-02,97.6,560,2016,8,Taiyuan Launch Center,Long March 2D
+Superview 1-03,Beijing Space View Technology,Commercial,Earth Observation,LEO,Sun-Synchronous,517,535,1.31E-03,97.5,560,2018,8,Taiyuan Launch Center,Long March 2D
+Superview 1-04,Beijing Space View Technology,Commercial,Earth Observation,LEO,Sun-Synchronous,515,534,1.38E-03,97.5,560,2018,8,Taiyuan Launch Center,Long March 2D
+SWARM-A,European Space Agency (ESA),Government,Earth Observation,LEO,Polar,473,476,2.19E-04,87.3,468,2013,4,Plesetsk Cosmodrome,Rokot
+SWARM-B,European Space Agency (ESA),Government,Earth Observation,LEO,Polar,473,476,2.19E-04,87.3,468,2013,4,Plesetsk Cosmodrome,Rokot
+SWARM-C,European Space Agency (ESA),Government,Earth Observation,LEO,Polar,486,496,7.29E-04,87.5,468,2013,4,Plesetsk Cosmodrome,Rokot
+SwissCube,Ecole Polytechnique Fédérale de Lausanne (EPFL),Civil,Technology Development,LEO,Sun-Synchronous,710,720,7.06E-04,98.3,1,2009,1,Satish Dhawan Space Centre,PSLV
+TanDEM-X,German Aerospace Center (DLR)/Astrium,Government,Earth Observation,LEO,Sun-Synchronous,507,510,2.18E-04,97.4,1350,2010,5,Baikonur Cosmodrome,Dnepr
+Tango,European Space Agency (ESA) (and 250 international scientific investigators),Government,Space Science,Elliptical,Deep Highly Eccentric,17313,120961,6.86E-01,90.7,1200,2000,4,Baikonur Cosmodrome,Soyuz
+TeLEOS 1,AgilSpace,Commercial,Earth Observation,LEO,Equatorial,535,550,1.08E-03,15,400,2015,5,Satish Dhawan Space Centre,PSLV C29
+TEMPEST-D,Colorado State University,Civil,Space Science,LEO,Non-Polar Inclined,399,407,5.91E-04,51.63,10,2018,1,International Space Station,Nanorack Deployer
+TET-1,German Aerospace Center (DLR),Commercial,Technology Development,LEO,Sun-Synchronous,501,505,2.91E-04,97.5,120,2012,1,Baikonur Cosmodrome,Soyuz-Fregat
+Uguisu,Kyushu Institute of Technology (KIT),Civil,Earth Observation,LEO,Non-Polar Inclined,405,415,7.37E-04,51.6,1,2019,1.5,International Space Station,J-SSOD Deployer
+UiTMSAT-1,Universiti Teknologi Mara (UiTM),Civil,Earth Observation,LEO,Non-Polar Inclined,398,408,7.38E-04,51.6,1,2018,2,International Space Station,J-SSOD Deployer
+UK-DMC-2,UK/DMC International Imaging (DMCII),Government,Earth Observation,LEO,Sun-Synchronous,660,662,1.42E-04,98,97,2009,5,Baikonur Cosmodrome,Dnepr
+Venµs,Centre National d'Etudes Spatiales (CNES)/Israel Space Agency,Government,Earth Observation,LEO,Sun-Synchronous,719,724,3.53E-04,98.3,264,2017,4.5,Guiana Space Center,Vega
+VNREDSat 1A,Space Technology Institute-Vietnam Academy of Science and Technology (STI-VAST),Government,Earth Observation,LEO,Sun-Synchronous,682,685,2.13E-04,98.13,115,2013,5,Guiana Space Center,Vega
+Worldview 1,Maxar Technologies Inc.,Commercial,Earth Observation,LEO,Sun-Synchronous,491,494,2.19E-04,97.3,4500,2007,7.25,Vandenberg AFB,Delta 2
+Worldview 3,Maxar Technologies Inc.,Commercial,Earth Observation,LEO,Sun-Synchronous,612,614,1.43E-04,97.99,2800,2014,12,Vandenberg AFB,Atlas 5
+XMM Newton,European Space Operations Centre (ESOC),Government,Space Science,Elliptical,Deep Highly Eccentric,7079,114027,7.99E-01,38.4,3764,1999,10,Guiana Space Center,Ariane 5
+X-Sat,Centre for Research in Satellite Technology (CREST),Government,Earth Observation,LEO,Sun-Synchronous,801,823,1.53E-03,98.7,91,2011,3,Satish Dhawan Space Centre,PSLV C16
+Youthsat,Indian Space Research Organization (ISRO),Government,Space Science,LEO,Sun-Synchronous,802,824,1.53E-03,98.7,92,2011,2,Satish Dhawan Space Centre,PSLV C16
+Ziyuan 1-2D,China Centre for Resources Satellite Data and Application (CRESDA),Government,Earth Observation,LEO,Sun-Synchronous,748,758,7.02E-04,98.5,2650,2019,5,Taiyuan Launch Center,Long March 4B
+Ziyuan 3,China Centre for Resources Satellite Data and Application (CRESDA),Government,Earth Observation,LEO,Sun-Synchronous,500,504,2.91E-04,97.5,2650,2012,4,Taiyuan Launch Center,Long March 4B
+Ziyuan 3-2,China Centre for Resources Satellite Data and Application (CRESDA),Government,Earth Observation,LEO,Sun-Synchronous,487,500,9.47E-04,97.5,2630,2016,4,Taiyuan Launch Center,Long March 4B
