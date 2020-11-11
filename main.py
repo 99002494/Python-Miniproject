@@ -34,4 +34,12 @@ print("Number of satellites of elliptical orbit:",  d1.all_satellites_by_OrbitTy
 print("No. of satellites between life range:", d1.count_bw_life_range(2,10))
 print("\n")
 
+print("Launch Class Functions:")
+print("Highest mass is:",d1.highest_mass())
+print("Lowest mass is:", d1.lowest_mass())
+print("Average mass is:", d1.average_mass())
+print("Total number of satellites in 2010 is:", d1.total_satellites_in_year(2010))
+print("Number of satellites launched by PSLV are:", d1.number_of_satellites_by_vehicle('PSLV'))
+print("Total satellites launched between 2005 to 2015:",d1. number_of_satellites_bw_years_range(2005,2015))
+print("\n")
 

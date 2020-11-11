@@ -5,6 +5,13 @@ class details:
         self.LifeTime = LifeTime
         self.Purpose = Purpose
 
+class launch:
+    def __init__(self, LaunchVehicle, LaunchSite, LaunchYear, LaunchMass):
+        self.LaunchVehicle = LaunchVehicle
+        self.LaunchSite = LaunchSite
+        self.LaunchYear = LaunchYear
+        self.LaunchMass = LaunchMass
+
 class Satellite(details,launch,orbit):
     def __init__(self,OrbitClass,OrbitType,LifeTime,Purpose,LaunchVehicle, LaunchSite, LaunchYear, LaunchMass,perigee,apogee,eccentricity,inclination,Name,Operator,User):
         details.__init__(self,OrbitClass,OrbitType,LifeTime,Purpose)

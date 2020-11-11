@@ -65,3 +65,49 @@ class data():
             if x>min and x<max:
                 count = count+1
         return count
+    # Launch Class related functions
+    def highest_mass(self):
+        max_mass=0
+        for obj in self.info:
+            a = int(obj.LaunchMass)
+            if(max_mass < a): 
+                max_mass = a
+        return max_mass
+
+    def lowest_mass(self):
+        min_mass=1
+        for obj in self.info:
+            if(min_mass > int(obj.LaunchMass)):
+               min_mass = int(obj.LaunchMass)
+        return min_mass
+
+    def average_mass(self):
+        sum_mass = 0
+        avg_mass = 0
+        count = len(self.info)
+        for obj in self.info:
+            sum_mass = sum_mass + int(obj.LaunchMass)
+        avg_mass = int((sum_mass)/count)
+        return avg_mass
+
+    def total_satellites_in_year(self, year):
+        count = 0
+        for obj in self.info:
+            if int(obj.LaunchYear) == year:
+                count = count+1
+        return count
+
+    def number_of_satellites_by_vehicle(self, vehicle):
+        count = 0
+        for obj in self.info:
+            if obj.LaunchVehicle == vehicle:
+                count = count+1
+        return count
+
+    def number_of_satellites_bw_years_range(self,min,max):
+        count=0
+        for obj in self.info:
+            if int(obj.LaunchYear)>min and int(obj.LaunchYear)<max:
+                count = count+1
+        return count
+    

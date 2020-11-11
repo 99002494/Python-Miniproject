@@ -45,7 +45,24 @@ class TESTS(unittest.TestCase):
 
     def test_bw_liferange(self):
         self.assertEqual(197,self.d1.count_bw_life_range(2,10))
-   
+    
+    def test_highest_mass(self):
+        self.assertEqual(18000,self.d1.highest_mass())
+
+    def test_lowest_mass(self):
+        self.assertEqual(1,self.d1.lowest_mass())
+    
+    def test_average_mass(self):
+        self.assertEqual(1323,self.d1.average_mass())
+    
+    def test_total_satellites_in_year(self):
+        self.assertEqual(14,self.d1.total_satellites_in_year(2010))
+
+    def test_number_of_satellites_launched_by_vehicle(self):
+        self.assertEqual(27,self.d1.number_of_satellites_by_vehicle('PSLV'))
+
+    def test_bw_years_range(self):
+        self.assertEqual(122,self.d1. number_of_satellites_bw_years_range(2005,2015))
   
 
 if __name__ == '__main__':
