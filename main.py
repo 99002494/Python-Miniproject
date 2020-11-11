@@ -21,7 +21,7 @@ with open('satellite.csv', 'r') as file:
             LifeTime = row[12]
             LaunchSite = row[13]
             LaunchVehicle = row[14]        
-    
+        
         d1.add_satellite(OrbitClass,OrbitType,LifeTime,purpose,LaunchVehicle, LaunchSite, LaunchYear, LaunchMass,perigee,apogee,eccentricity,inclination,name,operator,user)
 
 print("Details Class Functions:")
